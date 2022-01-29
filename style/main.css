@@ -52,23 +52,23 @@ color: #fff;
 }
 
 .filme-principal .descricao {
-    margin-top: 20px;
-    margin-bottom:40px ;
+    margin-top: 5px;
+    margin: bottom 5px;
 }
 
 .filme-principal .titulo{
     font-size: 40px;
-    margin-top: 30%;
+    margin-top: 20%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .container {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 5px;
+ 
 }
 
 .filme-principal .container {
-    width: 50%;
+    width: 70%;
 }
 
 .botao {
@@ -88,5 +88,17 @@ color: #fff;
 }
 
 .botao i {
-    margin-right: 3px;
+    margin-right: 8px;
+
+}
+
+.box-filmes{
+    height: 100%;
+    width: 100%;
+    display: block;
+    cursor: pointer;
+}
+
+.carrosel-filmes{
+    margin-top: 5px;
 }
